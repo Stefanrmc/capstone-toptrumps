@@ -1,0 +1,1 @@
+This repository is for my capstone project - a top trumps style game where the user plays against the computer until one player runs out of cards. The 'deck' is made up of 16 cards featuring animals and their characteristics reflected in scores in five categories: speed, lifespan, strength, stealth and intelligence.
